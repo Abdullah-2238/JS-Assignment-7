@@ -1,0 +1,43 @@
+.forminput {
+    width: 370px;
+}
+.formdiv {
+    height:21vh;
+    width:40%;
+    background-color:rgb(166, 247, 240);
+    margin-top: 30px;
+    border-radius: 15px;
+}
+#userNameForm {
+    padding: 25px;
+}
+.formh1 {
+    font-weight: 500;
+    font-style: italic;
+    padding-top: 10px;
+}
+#userNameForm > label {
+    font-size:1.2rem;
+    font-weight: 500;
+}
+.maindiv {
+    height: 60vh;
+    width: 60%;
+    background-color: rgb(196, 239, 116);
+    border-radius: 20px;
+}
+.btn2 {
+    margin-top:25px;
+}
+.innerdiv {
+    height: 35vh;
+    width: 40%;
+    background-color: rgb(255, 0, 85);
+    margin-top: 40px;
+    visibility: hidden;
+}
+.divh1 {
+    font-weight: 500;
+    font-style: italic;
+    padding-top: 10px;
+}
